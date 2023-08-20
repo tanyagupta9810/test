@@ -1,0 +1,5 @@
+{{#tanyagupta9810}}
+Name: Tanya Gupta
+Skills: HTML, CSS, JS, Next.js, Python, Machine Learning,Data Science,Software Testing
+Email: test@gmail.com
+{{/tanyagupta9810}}
